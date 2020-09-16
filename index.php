@@ -6,7 +6,7 @@
  * Time: 19:39
  */
 require_once ("./vendor/autoload.php");
-use Yzl\JunitLaravel\Test;
+use Yangzhanlei\JunitLaravel\Test;
 
 $u=new Test();
 echo $u->demo();
